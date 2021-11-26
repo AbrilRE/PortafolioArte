@@ -1,0 +1,140 @@
+/* BIG*/
+@media only screen and (min-height: 1080px) {
+  .modal2 {
+    padding-top: 60px;
+  }
+
+  .modal2-content {
+    max-height: 850px;
+  }
+
+  #caption {
+    font-size: 1.5em;
+    height: 50px;
+  }
+
+  .close {
+    z-index: 3;
+    position: absolute;
+    top: 20px;
+    right: 130px;
+    font-size: 40px;
+  }
+
+  .navbar-brand {
+    font-size: 2em !important;
+  }
+
+  .navbar-brand > img {
+    width: 32px;
+  }
+
+  .nav-link {
+    font-size: 1.3em;
+  }
+
+  .carousel-item {
+    height: 670px;
+  }
+
+  .carousel-indicators {
+    top: 675px;
+  }
+
+  .title,
+  .title2 {
+    font-size: 3.5em;
+  }
+
+  .concept-title,
+  .anim-title,
+  .game-title {
+    font-size: 2em;
+  }
+
+  .concept-desc,
+  .anim-desc,
+  .game-desc {
+    font-size: 1.4em;
+  }
+
+  .concept-image > img {
+    width: 60vh;
+    height: 60vh;
+  }
+
+  .concept-preview > img {
+    width: 11vh;
+    height: 12vh;
+  }
+
+  .game1 > video,
+  .game2 > video {
+    height: 420px;
+  }
+
+  .video {
+    height: 420px;
+  }
+
+  .video2 {
+    height: 510px;
+  }
+
+  .anim-desc {
+    height: 350px !important;
+  }
+
+  .preview-video {
+    width: 7vh;
+    height: 7vh;
+  }
+  .logo-footer {
+    width: 32px;
+    height: 32px;
+  }
+
+  .name {
+    font-size: 1.5em;
+  }
+
+  .portfolio-name,
+  .portfolio-year {
+    font-size: 1.1em;
+  }
+}
+
+/* MEDIUM */
+@media only screen and (max-width: 1368px) {
+  body {
+    background-position: 100% 0% !important;
+    background-size: 103% !important;
+  }
+
+  .concept-image > img {
+    width: 58vh;
+    height: 57vh;
+  }
+
+  .concept-preview > img {
+    width: 11vh;
+    height: 12vh;
+  }
+
+  .video2, .wraper {
+    width: 97%;
+  }
+
+  .anim-information, .anim-preview{
+      padding: 0px 10px;
+  }
+
+  .preview-video {
+    width: 7.5vh;
+    height: 7.5vh;
+}
+}
+
+/* SMALL */
+@media only screen and (max-width: 768px) {
+}
