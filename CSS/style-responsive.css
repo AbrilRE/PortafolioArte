@@ -146,6 +146,8 @@
   body {
     margin: 0px;
     padding: 0px;
+    font-family: "Open Sans", sans-serif !important;
+    background-image: url(https://res.cloudinary.com/kimchidrwas/image/upload/v1638211026/Portfolio%20UI/Fondo-movil_odiqtq.png);
     background-position: 100% 100%;
     background-size: 100%;
   }
