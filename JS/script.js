@@ -42,19 +42,19 @@ function changeText(type) {
           "Concepto inspirado en el juego «Genshi Impact», proveniente de la región llamada Liyue, inspirada en la cultura china. Este personaje hace uso de una «visión Pyro», representando la habilidad de realizar ataques inbuidos en fuego. Los Personajes que poseen una visión Pyro, suelen ser apasionados e intensos con sus ambiciones.");
       break;
     case "title2":
-      (title1.innerText = "La guerrera roja «Aki»"),
+      (title1.innerText = "La guerrera roja"),
         (desc1.innerText =
-          "Personaje basado en el folclore japones, los «oni» son criaturas que comparten muchas similitudes con los demonios y ogros occidentales, suelen aparecer como seres salvajes y feroces, pero en algunos cuentos a veces también ayudan a las buenas personas. Mayor parte de los oni permanecen al acecho de viajeros perdidos y desorientados para atacarles y robarles, acompañados con un garrote de hierro, que denota resistencia e invencibilidad.");
+          "Personaje basado en el folclore japones, los «oni» son criaturas que comparten muchas similitudes con los demonios y ogros.\n\n Dentro del folclore existe una historia corta, sobre un oni rojo y uno azul, la historia cuenta el oni rojo queria ser amigo de los humanos pero estos siempre le tenian miedo, por lo que el oni azul le ofrece ayuda, el azul causaria estragos y el oni rojo ayudaria a los humanos, asi ganandose su confianza.");
       break;
     case "title3":
-      (title1.innerText = "El hoyo negro «Banmoku»"),
+      (title1.innerText = "El hoyo negro"),
         (desc1.innerText = 
-          '"(...) Un dia sus ojos parecian vacios y debiles, no podia soportar verla perder su brillo (...) ahogandose en este sentimiento, se dejo llevar, asi como creo las demas cosas, le transformo en una estrella, para asi poder verla brillar todos los dias en el cielo. \nEso cuenta la historia, es verdad que se convirtio en una estrella, inalcanzable e inmortal como el lo era, pero recordaba todo, no podia olvidar todo lo que sentia, su sentir se lleno de odio, ira y desesperacion, con todos esos recuerdos se dejo hundir. Ya no era mas una estrella, se convirtio en un hoyo negro que se alimentaba de la oscuridad."');
+          'Representa el sentimiento de dolor y enojo al mismo tiempo, por cosas que vivio en vida. Guarda rencores por los que siente desprecio y desea venganza, a su vez siente una tristeza profunda y no deja de sufrirlos.\n \n  Amarrada a estos sentimientos, se consume a si misma.');
       break;
     case "title4":
-      (title1.innerText = "Cosa «Myx»"),
+      (title1.innerText = "Eso"),
         (desc1.innerText =
-          '"(...) Llena de deseos de ser madre, deseo con todas sus fuerzas. \nTodos sabemos que no podia engendrar un hijo, ya no era humana. Aun si pudiera, necesitaria un hombre que fuese el padre. Deseo y deseo con todo su ser, dandole vida a una «cosa», no era un bebe, ni era humano, simplemente era una cosa que derrepente tuvo vida."');
+          'Representa la cosificación y deshumanización que a veces le damos a las personas, idealizando y creando escenarios inexistentes, que finalmente terminan creando una imagen borrosa y cortada de la persona.');
       break;
     case "anim1":
       (title2.innerText = "Unreal: introducción"),

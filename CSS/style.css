@@ -173,7 +173,6 @@ img {
   cursor: pointer;
 }
 
-.carousel2 > img,
 .carousel3 > img,
 .carousel4 > img {
   object-position: 100% 35%;
@@ -181,11 +180,11 @@ img {
 
 .carousel5 > img,
 .carousel6 > img,
-.carousel8 > img {
+.carousel7 > img{
   object-position: 100% 25%;
 }
 
-.carousel9 > img {
+.carousel2 > img {
   object-position: 100% 60%;
 }
 
@@ -329,7 +328,7 @@ img {
 }
 
 .anim-details {
-  width: 75%;
+  width: 52%;
 }
 
 .anim-desc {
