@@ -205,8 +205,6 @@ a {
 
 .gallery {
   display: flex;
-  justify-items: center;
-  width: 100%;
 }
 
 .gal-image {

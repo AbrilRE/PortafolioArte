@@ -277,8 +277,19 @@
     margin-bottom: 50px;
   }
 
-  .modelos {
+  .modelos{
     flex-direction: column;
+  }
+
+  .gallery {
+   flex-wrap: wrap;
+   justify-content: center;
+  }
+
+  .gal-image>img {
+    width: 27vh;
+    height: 33vh;
+    padding: 8px;
   }
 
   .model-gallery,
