@@ -46,26 +46,12 @@
     font-size: 3.5em;
   }
 
-  .concept-title,
-  .anim-title,
   .game-title {
     font-size: 2em;
   }
 
-  .concept-desc,
-  .anim-desc,
   .game-desc {
     font-size: 1.4em;
-  }
-
-  .concept-image > img {
-    width: 60vh;
-    height: 60vh;
-  }
-
-  .concept-preview > img {
-    width: 11vh;
-    height: 12vh;
   }
 
   .game1 > video,
@@ -79,10 +65,6 @@
 
   .video2 {
     height: 510px;
-  }
-
-  .anim-desc {
-    height: 350px !important;
   }
 
   .preview-video {
@@ -111,24 +93,9 @@
     background-size: 103% !important;
   }
 
-  .concept-image > img {
-    width: 58vh;
-    height: 57vh;
-  }
-
-  .concept-preview > img {
-    width: 11vh;
-    height: 12vh;
-  }
-
   .video2,
   .wraper {
     width: 97%;
-  }
-
-  .anim-information,
-  .anim-preview {
-    padding: 0px 10px;
   }
 
   .preview-video {
@@ -245,49 +212,6 @@
     width: 100%;
   }
 
-  .conceptualization {
-    flex-direction: column-reverse;
-    margin-bottom: 0px;
-  }
-
-  .concept-information {
-    padding: 0px 5px;
-  }
-
-  .concept-title,
-  .anim-title {
-    font-size: 1.25em;
-  }
-
-  .concept-desc,
-  .anim-desc {
-    font-size: 0.95em;
-    margin-bottom: 0px;
-  }
-
-  .concept-preview {
-    width: 100%;
-    flex-direction: row;
-    justify-content: space-evenly;
-  }
-
-  .concept-preview > img {
-    width: 10vh;
-    height: 10vh;
-    border-radius: 10px;
-  }
-
-  .concept-image {
-    margin-right: 0px;
-    margin-bottom: 10px;
-  }
-
-  .concept-image > img {
-    width: 100%;
-    height: 34vh;
-    border-radius: 10px;
-  }
-
   .videojuegos {
     flex-direction: column;
   }
@@ -318,40 +242,11 @@
     font-size: 1.25em;
   }
 
-  .animacion {
-    flex-direction: column;
-    margin-bottom: 0px;
-  }
-
   .video2 {
     width: 100%;
     height: 205px;
     border-radius: 7px;
     margin-bottom: 5px;
-  }
-
-  .anim-details {
-    display: flex;
-    flex-direction: column-reverse;
-    width: 100%;
-    height: 365px;
-  }
-
-  .anim-desc {
-    height: 320px !important;
-  }
-
-  .anim-preview {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
-    padding: 0px 0px;
-    width: 100%;
-  }
-
-  .anim-information {
-    height: 300px !important;
-    padding: 0px !important;
   }
 
   .preview-video {
